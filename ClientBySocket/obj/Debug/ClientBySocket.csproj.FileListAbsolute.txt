@@ -1,0 +1,27 @@
+d:\documents\visual studio 2013\Projects\ServerBySocket\ClientBySocket\bin\Debug\ClientBySocket.exe.config
+d:\documents\visual studio 2013\Projects\ServerBySocket\ClientBySocket\bin\Debug\ClientBySocket.exe
+d:\documents\visual studio 2013\Projects\ServerBySocket\ClientBySocket\bin\Debug\ClientBySocket.pdb
+d:\documents\visual studio 2013\Projects\ServerBySocket\ClientBySocket\obj\Debug\ClientBySocket.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\ServerBySocket\ClientBySocket\obj\Debug\ClientBySocket.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\ServerBySocket\ClientBySocket\obj\Debug\ClientBySocket.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\ServerBySocket\ClientBySocket\obj\Debug\ClientBySocket.exe
+d:\documents\visual studio 2013\Projects\ServerBySocket\ClientBySocket\obj\Debug\ClientBySocket.pdb
+D:\Documents\visual studio 2013\Projects\ServerBySocket\ClientBySocket\obj\Debug\ClientBySocket.ClientForm.resources
+C:\Users\Administrator.SC-201703152226\Downloads\ServerBySocket\ClientBySocket\bin\Debug\ClientBySocket.exe.config
+C:\Users\Administrator.SC-201703152226\Downloads\ServerBySocket\ClientBySocket\bin\Debug\ClientBySocket.exe
+C:\Users\Administrator.SC-201703152226\Downloads\ServerBySocket\ClientBySocket\bin\Debug\ClientBySocket.pdb
+C:\Users\Administrator.SC-201703152226\Downloads\ServerBySocket\ClientBySocket\obj\Debug\ClientBySocket.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.SC-201703152226\Downloads\ServerBySocket\ClientBySocket\obj\Debug\ClientBySocket.ClientForm.resources
+C:\Users\Administrator.SC-201703152226\Downloads\ServerBySocket\ClientBySocket\obj\Debug\ClientBySocket.Properties.Resources.resources
+C:\Users\Administrator.SC-201703152226\Downloads\ServerBySocket\ClientBySocket\obj\Debug\ClientBySocket.csproj.GenerateResource.Cache
+C:\Users\Administrator.SC-201703152226\Downloads\ServerBySocket\ClientBySocket\obj\Debug\ClientBySocket.exe
+C:\Users\Administrator.SC-201703152226\Downloads\ServerBySocket\ClientBySocket\obj\Debug\ClientBySocket.pdb
+C:\Users\Administrator.SC-201703152226\Desktop\ServerBySocket\ClientBySocket\bin\Debug\ClientBySocket.exe.config
+C:\Users\Administrator.SC-201703152226\Desktop\ServerBySocket\ClientBySocket\obj\Debug\ClientBySocket.exe
+C:\Users\Administrator.SC-201703152226\Desktop\ServerBySocket\ClientBySocket\obj\Debug\ClientBySocket.pdb
+C:\Users\Administrator.SC-201703152226\Desktop\ServerBySocket\ClientBySocket\bin\Debug\ClientBySocket.exe
+C:\Users\Administrator.SC-201703152226\Desktop\ServerBySocket\ClientBySocket\bin\Debug\ClientBySocket.pdb
+C:\Users\Administrator.SC-201703152226\Desktop\ServerBySocket\ClientBySocket\obj\Debug\ClientBySocket.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.SC-201703152226\Desktop\ServerBySocket\ClientBySocket\obj\Debug\ClientBySocket.ClientForm.resources
+C:\Users\Administrator.SC-201703152226\Desktop\ServerBySocket\ClientBySocket\obj\Debug\ClientBySocket.Properties.Resources.resources
+C:\Users\Administrator.SC-201703152226\Desktop\ServerBySocket\ClientBySocket\obj\Debug\ClientBySocket.csproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+d:\documents\visual studio 2013\Projects\ServerBySocket\ServerBySocket\bin\Debug\ServerBySocket.exe.config
+d:\documents\visual studio 2013\Projects\ServerBySocket\ServerBySocket\bin\Debug\ServerBySocket.exe
+d:\documents\visual studio 2013\Projects\ServerBySocket\ServerBySocket\bin\Debug\ServerBySocket.pdb
+d:\documents\visual studio 2013\Projects\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.exe
+d:\documents\visual studio 2013\Projects\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.pdb
+d:\documents\visual studio 2013\Projects\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.ServerForm.resources
+D:\Documents\visual studio 2013\Projects\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.SC-201703152226\Desktop\ServerBySocket\ServerBySocket\bin\Debug\ServerBySocket.exe.config
+C:\Users\Administrator.SC-201703152226\Desktop\ServerBySocket\ServerBySocket\bin\Debug\ServerBySocket.exe
+C:\Users\Administrator.SC-201703152226\Desktop\ServerBySocket\ServerBySocket\bin\Debug\ServerBySocket.pdb
+C:\Users\Administrator.SC-201703152226\Desktop\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.SC-201703152226\Desktop\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.ServerForm.resources
+C:\Users\Administrator.SC-201703152226\Desktop\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.Properties.Resources.resources
+C:\Users\Administrator.SC-201703152226\Desktop\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.csproj.GenerateResource.Cache
+C:\Users\Administrator.SC-201703152226\Desktop\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.exe
+C:\Users\Administrator.SC-201703152226\Desktop\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.pdb
